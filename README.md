@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LeoraCramer
 - 👀 Future D.O., interested in medicine
+- Currently assisting research projects in neurosurgery and radiology
 - 📫 How to reach me:
 -      Leora.Cramer@burrell.edu
 -      LCramer1@bidmc.harvard.edu
